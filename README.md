@@ -14,5 +14,5 @@
 
 ## 📚 QUOTES TO LIVE BY
 - 🙏 "From everyone to whom much has been given, much will be required..." -Luke 12:48 
-- 🧗‍♂️“Life begins at the edge of your comfort zone.” -Neale Donald Walsh
+- 🧗‍♂️ “Life begins at the edge of your comfort zone.” -Neale Donald Walsh
 - 🌎 “To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.” -James Thurber
