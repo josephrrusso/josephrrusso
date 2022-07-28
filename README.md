@@ -5,7 +5,7 @@
 - 💼  [LinkedIn](https://www.linkedin.com/in/josephrrusso/)
 - 📸  [Instagram](https://www.instagram.com/josephrrusso/)
 
-## 🚀   What I'm Working On
+## 🚀   WHAT I'M WORKING ON
 
 - 🚨  [Emergency Ventures](https://emergency.ventures/) | Saving Lives Through Technology
 - ✍️   [The Founder Journey](https://www.linkedin.com/newsletters/the-founder-journey-6932559891098218496/) | Building a #GovTech Startup in #MiamiTech
