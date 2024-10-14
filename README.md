@@ -1,10 +1,8 @@
 
-
 ## 👋 ABOUT ME
-- 💻 I’m a tech entrepreneur with the Mission to Build a Better World through Technology and Innovation.
-- 📍 Based in South Florida (West Palm Beach & Miami), but love to travel any chance I get!
-- 🔑 My professional qualities are Visionary | Ideal Evangelist | Innovator | Adaptive | Charismatic (via Scoutible)
-
+- 💻 Tech Entrepreneur with the Mission to Build a Better World through Technology and Innovation.
+- 🔑 Qualities (via Scoutible) are Visionary | Ideal Evangelist | Innovator | Adaptive | Charismatic
+- 📍 Based in South Florida (West Palm Beach & Miami) and love traveling for work or life.
 
 ## 🚀   WHAT I'M WORKING ON
 - 🚨 [Emergency Ventures](https://emergency.company/) | Saving Lives Through Technology
