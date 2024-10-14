@@ -5,7 +5,7 @@
 - 📍 Based in South Florida (West Palm Beach & Miami) and love traveling for work or life.
 
 ## 🚀   WHAT I'M WORKING ON
-- 🚨 [Emergency Ventures](https://emergency.company/) | Saving Lives Through Technology
+- 🚨 [Emergency Company](https://emergency.company/) | Saving Lives Through Technology
 - 🧉 [A Latte Stuff](https://josephrrusso.substack.com/) | 5 min Monday read saving Time + Money
 - 🌎 [Innovate Group](https://www.linkedin.com/company/theinnovategroup/) | Boutique Startup Consultancy
 
